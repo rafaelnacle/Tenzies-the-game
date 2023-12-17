@@ -3,6 +3,10 @@ This is a project made with the [Scrimba](https://scrimba.com/dashboard#overview
 
 ![image](https://github.com/rafaelnacle/Tenzies-the-game/assets/54647722/07585722-54a7-465a-b7fd-d2f0feda5214)
 
+## Running the project
+```
+  npm install && npm run dev
+```
 ## Tech
 - React
 - Vite
